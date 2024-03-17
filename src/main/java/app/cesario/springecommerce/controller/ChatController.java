@@ -1,7 +1,8 @@
-package app.cesario.springecommerce.controllers;
+package app.cesario.springecommerce.controller;
 
 import app.cesario.springecommerce.dto.ParametrosChatDTO;
 
+import app.cesario.springecommerce.service.ChatService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

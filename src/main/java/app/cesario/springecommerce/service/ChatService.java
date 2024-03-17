@@ -1,4 +1,4 @@
-package app.cesario.springecommerce.controllers;
+package app.cesario.springecommerce.service;
 
 import com.theokanning.openai.completion.chat.ChatCompletionRequest;
 import com.theokanning.openai.completion.chat.ChatMessage;
